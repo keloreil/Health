@@ -1,0 +1,8 @@
+# Ignore all files in the "RuoYi-Cloud-Plus" directory
+RuoYi-Cloud-Plus/
+
+# Ignore all files in the "plus-ui" directory
+plus-ui/
+
+# Ignore all files in the "manage" directory
+manage/
